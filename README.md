@@ -1,0 +1,2 @@
+# FUTURE_DS_03
+Marketing Funnel &amp; Conversion Analysis  This project analyzes the marketing funnel to understand user movement from visitors to customers. It highlights conversion rates, drop-off points, and channel performance. Using data visualization, key insights and recommendations are provided to improve conversions, optimize funnel stages.
